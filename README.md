@@ -7,8 +7,11 @@ I'm a UI/UX designer & FrontEnd Developer from Barcelona.
 - 👯 I’m looking to collaborate on FrontEnd proyects. 
 
 #### 🌱 I’m currently learning ...
-	-[MEVN Stack]{https://www.geeksforgeeks.org/what-is-mevn-stack/} 
-	-JAMstack with [Gridsome]{https://gridsome.org/}
+
+- [MEVN Stack]{https://www.geeksforgeeks.org/what-is-mevn-stack/}
+
+- JAMstack with [Gridsome]{https://gridsome.org/}
+
 <!--
 **terremotoBCN/terremotoBCN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
