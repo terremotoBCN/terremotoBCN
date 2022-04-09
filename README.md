@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a UI/UX designer & FrontEnd Developer from Barcelona.
+I'm a Designer & FrontEnd Engenier from Barcelona.
 
 
 
