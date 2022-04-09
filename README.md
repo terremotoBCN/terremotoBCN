@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I'm a Designer & FrontEnd Engenier from Barcelona.
+I'm a UI/UX designer & FrontEnd Developer from Barcelona.
 
-#### 👯 I’m looking to collaborate on Webs and Apps projects. 
+
+
+#### 👯 I’m looking to collaborate on FrontEnd proyects. 
 
 #### 🌱 I’m currently learning ...
 
