@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 from Barcelona
 
 I'm Antonio Garcia (1969), a Visual Designer & FrontEnd Engineer from Barcelona.
 
