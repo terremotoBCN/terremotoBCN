@@ -13,12 +13,11 @@ This has led me to collaborate with big companies and their technological projec
 
 📫 [Contact me ](https://www.linkedin.com/in/agarcia-bcn21/)
 
-#### 🌱 I’m currently learning ...
+#### 🌱 I’m currently working with ...
 
 - [MEVN Stack](https://www.geeksforgeeks.org/what-is-mevn-stack/)
 - [Vite + Vue3 + Pinia]()
-
-- [JAMstack](https://jamstack.org/what-is-jamstack/) with [Gridsome](https://gridsome.org/)
+- [JAMstack](https://jamstack.org/what-is-jamstack/)
 
 <!--
 **terremotoBCN/terremotoBCN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
