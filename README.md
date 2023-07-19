@@ -2,12 +2,11 @@
 
 I'm Antonio Garcia (1969), a Visual Designer & FrontEnd Engineer from Barcelona.
 
-I'm a design and technology enthusiast with a long career and an innovative spirit.
+Passionate about design and technology with a long career and an innovative spirit.
 
 I started as a graphic designer, but the use of computers made me discover a world full of possibilities.
 
-This has led me to collaborate with big companies and their technological projects, always using the latest technologies.
-
+This has led me to collaborate with big companies and their projects, always using the latest technologies.
 
 #### 👯 I’m looking to collaborate on FrontEnd proyects. 
 
